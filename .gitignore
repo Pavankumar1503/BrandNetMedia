@@ -1,0 +1,57 @@
+# =========================
+# Global ignores
+# =========================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+
+# =========================
+# Node / React Frontend
+# =========================
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+frontend/.DS_Store
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# =========================
+# Java / Spring Boot Backend
+# =========================
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.vscode/
+backend/.idea/
+backend/.gradle/
+backend/build/
+backend/logs/
+backend/*.log
+backend/*.tmp
+backend/.env
+backend/application-*.properties
+backend/application-*.yml
+
+# =========================
+# IDE & System files
+# =========================
+.vscode/
+.idea/
+*.iml
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# =========================
+# OS files
+# =========================
+ehthumbs.db
+Icon?
+Desktop.ini

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BrandNetMedia/static/css/main.d207d5ae.css",
+    "main.js": "/BrandNetMedia/static/js/main.74e47edd.js",
+    "index.html": "/BrandNetMedia/index.html",
+    "main.d207d5ae.css.map": "/BrandNetMedia/static/css/main.d207d5ae.css.map",
+    "main.74e47edd.js.map": "/BrandNetMedia/static/js/main.74e47edd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d207d5ae.css",
+    "static/js/main.74e47edd.js"
+  ]
+}
